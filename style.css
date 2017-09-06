@@ -1,3 +1,20 @@
 .red{
-    color: red
+    color: #541B1B;
+}
+.red h1{
+    color:#51B251;
+}
+.red p {
+font-family: cursive;
+}
+
+#second{
+    color:#353553;
+    text-justify:distribute-all-lines;
+}
+#second h6{
+    text-orientation: sideways-right;
+}
+#second a{
+    font-size: 2em;
 }
