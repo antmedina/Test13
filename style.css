@@ -1,5 +1,5 @@
 .red{
-    color: #541B1B;
+    color: #DA5252;
 }
 .red h1{
     color:#51B251;
@@ -9,11 +9,13 @@ font-family: cursive;
 }
 
 #second{
-    color:#353553;
+    color:#0000FF;
     text-justify:distribute-all-lines;
+   
 }
 #second h6{
     text-orientation: sideways-right;
+    position: absolute ;
 }
 #second a{
     font-size: 2em;
